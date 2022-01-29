@@ -1,0 +1,68 @@
+634.1800000000001	Albuquerque
+496.14	Anaheim
+217.79	Bakersfield
+745.31	Baltimore
+579.85	Boston
+467.48	Chandler
+863.99	Charlotte
+676.35	Chesapeake
+98.92	Chicago
+105.56	Cleveland
+142.24	Columbus
+293.04	Corpus Christi
+538.8199999999999	Dallas
+239.49	Denver
+719.01	Durham
+26.72	El Paso
+400.35	Fort Worth
+60.92	Fresno
+374.01	Gilbert
+220.63	Glendale
+176.98	Hialeah
+588.54	Honolulu
+183.38	Houston
+208.16	Irvine
+163.57	Irving
+950.62	Jacksonville
+329.03	Jersey City
+129.79	Kansas City
+152.94	Las Vegas
+92.26	Lexington
+328.83000000000004	Lincoln
+42.48	Long Beach
+37.77	Los Angeles
+366.6	Louisville
+1297.71	Lubbock
+337.8	Madison
+607.29	Memphis
+70.75	Mesa
+331.75	Miami
+487.86	Milwaukee
+106.08	Minneapolis
+405.18	Nashville
+718.69	New Orleans
+584.0699999999999	New York
+274.88	Norfolk
+409.26	North Las Vegas
+855.1	Oakland
+435.3	Omaha
+160.07	Orlando
+259.14	Philadelphia
+94.3	Phoenix
+181.96	Plano
+443.46	Raleigh
+111.75	Reno
+138.93	Saint Paul
+357.1	San Diego
+853.87	San Francisco
+337.71	San Jose
+732.94	Santa Ana
+423.52	Scottsdale
+453.07	Seattle
+230.81	Spokane
+123.88	St. Petersburg
+286.88	Tampa
+864.4300000000001	Toledo
+247.4	Tucson
+206.82	Tulsa
+875.51	Winston–Salem
