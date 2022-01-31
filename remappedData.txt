@@ -1,68 +1,68 @@
-634.1800000000001	Albuquerque
-496.14	Anaheim
-217.79	Bakersfield
-745.31	Baltimore
-579.85	Boston
-467.48	Chandler
-863.99	Charlotte
-676.35	Chesapeake
-98.92	Chicago
-105.56	Cleveland
-142.24	Columbus
-293.04	Corpus Christi
-538.8199999999999	Dallas
-239.49	Denver
-719.01	Durham
-26.72	El Paso
-400.35	Fort Worth
-60.92	Fresno
-374.01	Gilbert
-220.63	Glendale
-176.98	Hialeah
-588.54	Honolulu
-183.38	Houston
-208.16	Irvine
-163.57	Irving
-950.62	Jacksonville
-329.03	Jersey City
-129.79	Kansas City
-152.94	Las Vegas
-92.26	Lexington
-328.83000000000004	Lincoln
-42.48	Long Beach
-37.77	Los Angeles
-366.6	Louisville
+0634.18	Albuquerque
+0496.14	Anaheim
+0217.79	Bakersfield
+0745.31	Baltimore
+0579.85	Boston
+0467.48	Chandler
+0863.99	Charlotte
+0676.35	Chesapeake
+0098.92	Chicago
+0105.56	Cleveland
+0142.24	Columbus
+0293.04	Corpus Christi
+0538.81	Dallas
+0239.49	Denver
+0719.01	Durham
+0026.72	El Paso
+0400.35	Fort Worth
+0060.92	Fresno
+0374.01	Gilbert
+0220.63	Glendale
+0176.98	Hialeah
+0588.54	Honolulu
+0183.38	Houston
+0208.16	Irvine
+0163.57	Irving
+0950.62	Jacksonville
+0329.03	Jersey City
+0129.79	Kansas City
+0152.94	Las Vegas
+0092.26	Lexington
+0328.83	Lincoln
+0042.48	Long Beach
+0037.77	Los Angeles
+0366.6	Louisville
 1297.71	Lubbock
-337.8	Madison
-607.29	Memphis
-70.75	Mesa
-331.75	Miami
-487.86	Milwaukee
-106.08	Minneapolis
-405.18	Nashville
-718.69	New Orleans
-584.0699999999999	New York
-274.88	Norfolk
-409.26	North Las Vegas
-855.1	Oakland
-435.3	Omaha
-160.07	Orlando
-259.14	Philadelphia
-94.3	Phoenix
-181.96	Plano
-443.46	Raleigh
-111.75	Reno
-138.93	Saint Paul
-357.1	San Diego
-853.87	San Francisco
-337.71	San Jose
-732.94	Santa Ana
-423.52	Scottsdale
-453.07	Seattle
-230.81	Spokane
-123.88	St. Petersburg
-286.88	Tampa
-864.4300000000001	Toledo
-247.4	Tucson
-206.82	Tulsa
-875.51	Winston–Salem
+0337.8	Madison
+0607.29	Memphis
+0070.75	Mesa
+0331.75	Miami
+0487.86	Milwaukee
+0106.08	Minneapolis
+0405.18	Nashville
+0718.69	New Orleans
+0584.06	New York
+0274.88	Norfolk
+0409.26	North Las Vegas
+0855.1	Oakland
+0435.3	Omaha
+0160.07	Orlando
+0259.14	Philadelphia
+0094.3	Phoenix
+0181.96	Plano
+0443.46	Raleigh
+0111.75	Reno
+0138.93	Saint Paul
+0357.1	San Diego
+0853.87	San Francisco
+0337.71	San Jose
+0732.94	Santa Ana
+0423.52	Scottsdale
+0453.07	Seattle
+0230.81	Spokane
+0123.88	St. Petersburg
+0286.88	Tampa
+0864.43	Toledo
+0247.4	Tucson
+0206.82	Tulsa
+0875.51	Winston–Salem
